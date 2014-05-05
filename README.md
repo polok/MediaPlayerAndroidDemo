@@ -1,0 +1,4 @@
+MediaPlayerAndroidDemo
+======================
+
+Simple custom MediaPlayer
